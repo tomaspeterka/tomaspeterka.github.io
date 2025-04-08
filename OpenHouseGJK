@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notion Embed</title>
+    <style>
+        body {
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        iframe {
+            width: 95%;
+            height: 95vh;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <iframe src="https://horn-can-ce2.notion.site/ebd/1be1199987af81a9a2a1d80dc3ad4f44" allowfullscreen></iframe>
+</body>
+</html>
